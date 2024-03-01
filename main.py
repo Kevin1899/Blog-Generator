@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # (Replace with your actual OpenAI API key)
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "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"
 
 def cute_messages(query):
     """Generates a blog post using OpenAI's GPT-3.5-turbo model,
