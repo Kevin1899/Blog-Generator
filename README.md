@@ -24,6 +24,8 @@ This Streamlit app uses OpenAI's powerful GPT-3.5-turbo model to generate unique
 - pip
 - streamlit
 - openai
+  
+![Blog Generator](https://giphy.com/gifs/ceSIjFdCgLi0Ao0YcV)
 
 ## To install the required packages, run the following command in your terminal:
 pip install streamlit openai
